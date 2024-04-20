@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "express": "^4.19.2",
+        "index.js": "^0.0.3",
+        "node-fetch": "^2.6.1",
+        "os": "*"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
